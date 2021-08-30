@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pX+3h/+H5hIxLIEkBwGARbVz1U+47AvgEXf4EMAmjZo46CMugcMII+13RNrB1fsQPMyKC4JT2JXHxAyAGt0Wcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adamo\\OneDrive\\Documents\\GitHub\\MMTTechnicalTest\\MMTShopConsole\\MMTShopConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
